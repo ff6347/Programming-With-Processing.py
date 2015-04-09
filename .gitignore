@@ -1,0 +1,6 @@
+.DS_Store
+node_modules
+sftp-config.json
+sketch.properties
+.codekit-cache
+build-tmp
